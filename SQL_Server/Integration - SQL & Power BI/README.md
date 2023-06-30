@@ -4,8 +4,6 @@
 
 ### Basic data analysis project, integration between SQL and Power BI
 
-<iframe title="Sales Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjczZDRjYTMtODRlMy00MmNjLTgzYjItNTlkMWJkOGQ2NTEyIiwidCI6IjQ3ZjY2MGU3LTM3OGEtNDhlMy1iOTg3LTEyMDRhOGM2NzRkYiJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 ### Indicators: 
  
 #### GENERAL:
