@@ -36,7 +36,7 @@ WHERE YEAR(OrderDate) = 2013
 
 If you want to see the complete query, it's in the [SQL file](SQL_Server\Integration - SQL & Excel\SQL Query - Adventure Works.sql).
 
-The Report in Excel can be found [here](https://1drv.ms/x/s!Ajfq7krIHzZQggpdl4LUcSoHQmbc?e=Cg6zeR)
+The Report in Excel/Google Sheets can be found [here]([https://1drv.ms/x/s!Ajfq7krIHzZQggpdl4LUcSoHQmbc?e=Cg6zeR](https://docs.google.com/spreadsheets/d/1y425_wPkWLIksE0rzt5Np8cR8AgQ3AMLsGEccrMN-ZQ/edit?usp=sharing))
 
 The database used for analysis is available at [microsoft page](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
 
