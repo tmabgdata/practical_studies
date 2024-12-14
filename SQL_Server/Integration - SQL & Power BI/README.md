@@ -1,4 +1,4 @@
-#SQL & Power BI
+# SQL & Power BI
 
 ## Sales report for fictional company *Adventure Works*
 
